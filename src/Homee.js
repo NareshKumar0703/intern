@@ -8,7 +8,7 @@ function Homee() {
     <div>
         {/* navigation bar */}
         <div class="top" >
-        <span><img src='/wtef-logo.png' alt='error' width='300px' height='50px' /> </span>
+        <span><img src='/wtef-logo.png' alt='err' width='300px' height='50px' /> </span>
         <div class='insde'><span>HOME</span><span>ABOUT</span><span>PROGRAM</span><span>DELIGATES</span><span>VIP</span><span>SPONSOR</span><span>CONFERENCE</span><span>NEWS</span><span>CONTACT</span></div>
         </div>
 
