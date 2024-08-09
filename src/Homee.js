@@ -66,7 +66,7 @@ function Homee() {
           </div>
           <div id='pg2img'>
           <iframe width="560" height="315" src="https://www.youtube.com/embed/nN1zxv7c0SU?si=5VpEtllY3xZ-hLhx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-          <a href='https://wtefchennai.com/ec-payment/'><img id='limg' src='/WhatsApp-Image-2023-12-01-at-10.53.55-AM.jpeg' alt='error'/></a>
+          <a href='https://wtefchennai.com/ec-payment/'><img id='limg' src='/WhatsApp-Image-2023-12-01-at-10.53.55-AM.jpeg' alt='err'/></a>
 
           </div>
 
